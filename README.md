@@ -85,7 +85,7 @@ I aim to leverage **AI-driven solutions** to transform biological insights into 
 - **Description**: Mathematical model assessing migration’s impact on malaria spread in the Colombian Pacific.  
 - **Highlights**: Differential equations, scenario simulations under illegal mining influence.  
 - **Tech**: `R`, `deSolve`, `ggplot2`.  
-- 🔗 [View on GitHub](https://github.com/gabrielsmurillo/malaria-epidemiology-model)
+- 🔗 [View on GitHub](https://github.com/GabrielSMurillo/malaria-epidemiological-model)
 
 ---
 
