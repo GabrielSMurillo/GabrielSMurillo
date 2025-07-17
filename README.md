@@ -69,7 +69,7 @@ I aim to leverage **AI-driven solutions** to transform biological insights into 
 - **Description**: Automated Deep Learning system (EfficientNetB0) to classify fundus images.  
 - **Highlights**: Explainable AI (XAI) validation, high accuracy on multi-class labels.  
 - **Tech**: `Python`, `TensorFlow`, `OpenCV`, `SHAP`.  
-- 🔗 [View on GitHub](https://github.com/gabrielsmurillo/ophthalmic-pathology-ai)
+- 🔗 [View on GitHub](https://github.com/GabrielSMurillo/diagnostico-oftalmico-cnn)
 
 ---
 
@@ -77,7 +77,7 @@ I aim to leverage **AI-driven solutions** to transform biological insights into 
 - **Description**: End-to-end lifecycle analysis to predict rocket landing success.  
 - **Highlights**: API & Web Scraping for data, Exploratory Data Analysis, Ensemble ML models.  
 - **Tech**: `Python`, `Pandas`, `Scikit-learn`, `Plotly`.  
-- 🔗 [View on GitHub](https://github.com/gabrielsmurillo/falcon9-landing-prediction)
+- 🔗 [View on GitHub](https://github.com/GabrielSMurillo/spacex-IBM_DataScientist_capstone-project)
 
 ---
 
